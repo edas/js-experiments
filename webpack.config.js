@@ -1,8 +1,14 @@
+const path = require('path');
+
 module.exports = options => {
     return {
-        entry: './index.js',
+        entry: './src/index.js',
         output: {
+            path: path.resolve(__dirname, 'build'),
             filename: 'bundle.js',
+        },
+        devServer: {
+            contentBase: path.resolve(__dirname, 'build'),
         },
     }
 }

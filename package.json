@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "test project",
   "repository": "",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
     "dev": "webpack-dev-server --env.dev",
     "build": "webpack"
