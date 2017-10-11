@@ -1,0 +1,18 @@
+{
+  "name": "scratch",
+  "version": "1.0.0",
+  "description": "test project",
+  "repository": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack-dev-server --env.dev",
+    "build": "webpack"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "webpack": "^3.6.0",
+    "webpack-dev-server": "^2.9.1"
+  }
+}
