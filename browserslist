@@ -1,0 +1,25 @@
+[production]
+last 3 Chrome major versions
+unreleased Chrome versions
+last 3 ChromeAndroid major versions
+unreleased ChromeAndroid versions
+last 3 Firefox major versions
+unreleased Firefox versions
+last 3 FirefoxAndroid major versions
+unreleased FirefoxAndroid versions
+last 2 Safari major versions
+unreleased Safari versions
+last 2 Opera major versions
+last 2 Edge major versions
+last 2 iOS major versions
+unreleased iOS versions
+> 5% in FR
+
+[development]
+last 1 Chrome version
+last 1 ChromeAndroid version
+last 1 Firefox version
+last 1 FirefoxAndroid version
+unreleased Firefox version
+last 1 iOS version
+last 1 Edge version
